@@ -5,7 +5,6 @@ class Solution {
         if (length < 4) {
             return result;
         }
-      
               Arrays.sort(nums);
               for (int first = 0; first < length - 3; first++) {
             if (first > 0 && nums[first] == nums[first - 1]) {
