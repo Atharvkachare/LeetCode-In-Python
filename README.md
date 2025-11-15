@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0031-next-permutation) |
 | [2350-find-closest-number-to-zero](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Atharvkachare/LeetCode-In-Python/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
